@@ -17,11 +17,11 @@
 
 <h2>Работники(список сотрудников)</h2>
 
-![image](https://user-images.githubusercontent.com/94895241/162290850-b4ed0fb1-472e-481a-87f3-56bcf9ec469a.png)
+![image](https://user-images.githubusercontent.com/94895241/162292447-64104125-a433-4ddd-8ef9-5bab2a2740dc.png)
 
 <h2>Добавление и изменение сотрудников</h2>
 
-![image](https://user-images.githubusercontent.com/94895241/162291006-93c4ab64-8ff3-42c6-9b05-9aa0590dfcb8.png)
+![image](https://user-images.githubusercontent.com/94895241/162292587-6e913f69-ce62-4913-b6c2-917325b1bbe8.png)
 
 
 <h2>Клиенты(список)</h2>
