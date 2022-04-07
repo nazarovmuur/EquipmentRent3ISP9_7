@@ -2,17 +2,17 @@
 
 <h2>Авторизация</h2>
 
-![Авторизация](https://user-images.githubusercontent.com/94895241/161865536-7ccbb5fb-280b-49a6-b356-629c79c31fbd.png)
+![image](https://user-images.githubusercontent.com/94895241/162191663-df4b4fe6-07d5-4502-a58c-2343d58dddba.png)
 
 <h2>Меню</h2>
 
 
-![Меню](https://user-images.githubusercontent.com/94895241/161866351-43b20b1b-4070-4f77-a28a-f540d2b84535.png)
+![image](https://user-images.githubusercontent.com/94895241/162191717-c9c8bf47-9dff-476e-9e50-511098b433e8.png)
 
 
 <h2>Работники</h2>
 
-![Работники](https://user-images.githubusercontent.com/94895241/161865560-2b57134e-8c5e-473c-a8f7-633728192612.png)
+![image](https://user-images.githubusercontent.com/94895241/162191981-5133fa46-f246-4812-be8b-169f18ecbcd3.png)
 
 <h2>Клиенты</h2>
 
@@ -25,7 +25,9 @@
 
 ![Создание](https://user-images.githubusercontent.com/94895241/161866441-98a1b4fe-5221-440c-99b1-68498631fe4d.png)
 
+<h2>Добавление</h2>
 
+![image](https://user-images.githubusercontent.com/94895241/162191884-4b8177b2-ea07-4f22-8ebb-effccdfb6b42.png)
 
 <h2>Оборудование</h2>
 
