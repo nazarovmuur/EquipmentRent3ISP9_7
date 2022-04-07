@@ -4,40 +4,53 @@
 
 ![image](https://user-images.githubusercontent.com/94895241/162191663-df4b4fe6-07d5-4502-a58c-2343d58dddba.png)
 
+<h2>Авторизация ошибка,при не правильном пароле или логине</h2>
+
+![image](https://user-images.githubusercontent.com/94895241/162290630-cc94f1a3-9bea-4815-a616-2e8b0bb5d80e.png)
+
+
 <h2>Меню</h2>
 
 
-![image](https://user-images.githubusercontent.com/94895241/162191717-c9c8bf47-9dff-476e-9e50-511098b433e8.png)
+![image](https://user-images.githubusercontent.com/94895241/162291686-b7a33718-255d-4dd2-9f3e-40e40750bfa4.png)
 
 
-<h2>Работники</h2>
+<h2>Работники(список сотрудников)</h2>
 
-![image](https://user-images.githubusercontent.com/94895241/162191981-5133fa46-f246-4812-be8b-169f18ecbcd3.png)
+![image](https://user-images.githubusercontent.com/94895241/162290850-b4ed0fb1-472e-481a-87f3-56bcf9ec469a.png)
 
-<h2>Клиенты</h2>
+<h2>Добавление и изменение сотрудников</h2>
 
-
-![Клиенты](https://user-images.githubusercontent.com/94895241/161866438-12c205fa-4111-4ea6-8ab0-58f22f43886b.png)
-
+![image](https://user-images.githubusercontent.com/94895241/162291006-93c4ab64-8ff3-42c6-9b05-9aa0590dfcb8.png)
 
 
-<h2>Создание</h2>
+<h2>Клиенты(список)</h2>
 
-![Создание](https://user-images.githubusercontent.com/94895241/161866441-98a1b4fe-5221-440c-99b1-68498631fe4d.png)
 
-<h2>Добавление</h2>
+![image](https://user-images.githubusercontent.com/94895241/162291105-2165b009-6212-482d-a42a-32b9b80152db.png)
 
-![image](https://user-images.githubusercontent.com/94895241/162191884-4b8177b2-ea07-4f22-8ebb-effccdfb6b42.png)
+<h2>Клиенты(добавление)</h2>
 
-<h2>Оборудование</h2>
 
-![Оборудование](https://user-images.githubusercontent.com/94895241/161865826-59a4d5ee-5e1f-4596-a225-180677347d89.png)
-
+![image](https://user-images.githubusercontent.com/94895241/162291133-d87d0464-0b9b-42f5-b97f-93f498c66b1b.png)
 
 <h2>Поиск</h2>
 
-![Поиск](https://user-images.githubusercontent.com/94895241/161865851-e9e94e00-ceaf-4037-ba48-72e7c011e2fc.png)
+![image](https://user-images.githubusercontent.com/94895241/162291263-8e0195f0-9b64-44f5-bc13-117f118e81d2.png)
 
-<h2>Редактирование пользователя</h2>
+<h2>Продукты</h2>
 
-![Редактирование пользователя](https://user-images.githubusercontent.com/94895241/161866118-42dba506-b826-4dfb-a32b-5ed257596b41.png)
+![image](https://user-images.githubusercontent.com/94895241/162291381-1a1dce3c-c081-42bf-b923-8fd155df6688.png)
+
+<h2>Продукты<(изменение)/h2>
+
+![image](https://user-images.githubusercontent.com/94895241/162291425-a9244a0e-4bc2-4739-b531-14e7ac86d1f7.png)
+  
+<h2>Выдача товаров( в процессе..) /h2>  
+  
+  
+
+
+
+
+
